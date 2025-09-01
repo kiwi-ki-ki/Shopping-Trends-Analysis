@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This analysis was conducted using Tableau 2024.3 with the dataset XXXX from Kaggle. To support informed business decision-making, understanding customer behavior is critical. This project examined shopper data to explore how consumer demographics, seasonal consumer behavior, and spending habits by age and payment method intersect.
+This analysis was conducted using Tableau 2024.3 with the dataset SHoppinf Trends Dataset (shopping_trends_updated.csv) found on Kaggle. To support informed business decision-making, understanding customer behavior is critical. This project examined shopper data to explore how consumer demographics, seasonal consumer behavior, and spending habits by age and payment method intersect.
 
 The purpose of the study was to uncover insights into who the shoppers are, when and how frequently they shop, what they purchase, and how they prefer to pay. By identifying patterns across demographics, seasonal behaviors, and spending/payment trends, the findings provide actionable guidance for enhancing customer engagement, tailoring product offerings, and optimizing marketing strategies.
 
