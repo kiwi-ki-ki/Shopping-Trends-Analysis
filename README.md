@@ -7,7 +7,7 @@ This analysis was conducted using Tableau 2024.3 with the dataset XXXX from Kagg
 The purpose of the study was to uncover insights into who the shoppers are, when and how frequently they shop, what they purchase, and how they prefer to pay. By identifying patterns across demographics, seasonal behaviors, and spending/payment trends, the findings provide actionable guidance for enhancing customer engagement, tailoring product offerings, and optimizing marketing strategies.
 
 ## The Analysis
-The analysis consisted of nine graphs and four dashboards. These visualizations were designed to highlight key findings across the three discovery areas: consumer demographics, seasonal consumer behavior, and spending habits by age and payment method.
+The analysis consisted of nine graphs and four dashboards. These visualizations were designed to highlight key findings across the three discovery areas: consumer demographics, seasonal consumer behavior, and spending habits by age and payment method. The interactive versions can be viewed via the .twb or .twbx files or still versions via the Visualizations_Dashboards.pdf for ease. 
 
 ### Visualizations
 V1. Shopper Demographics – A bubble graph displaying the count of shoppers by age bracket and gender. Results showed the majority of customers were males between ages 25–44.
